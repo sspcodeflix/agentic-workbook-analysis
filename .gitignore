@@ -1,0 +1,7 @@
+__pycache__/
+data/
+reports/
+*.sqlite
+*.db
+*.xlsx
+*.csv
